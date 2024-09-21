@@ -1,0 +1,7 @@
+Include the following for the Bootstrap library.
+
+<link rel="stylesheet" href="/pkg/bootstrap/5.3.3/css/bootstrap.min.css" >
+<script src="/pkg/bootstrap/5.3.3/js/bootstrap.min.js" >
+<script src="/pkg/jquery/jquery.3.7.1.min.js" >
+<script src="/pkg/popper/popper.2.4.4.min.js" >
+
